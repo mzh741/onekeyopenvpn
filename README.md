@@ -13,7 +13,7 @@ udpspeeder、udp2raw软件的作者为@wangyu-，github：https://github.com/wan
 
 #### 使用一键搭建脚本 ####
 
-> bash <(curl -L -s https://raw.githubusercontent.com/yobabyshark/onekeyopenvpn/master/onekeyopenvpn.sh)
+> bash <(curl -L -s https://raw.githubusercontent.com/mzh741/onekeyopenvpn/master/onekeyopenvpn.sh)
 
 #### 检查一下是否安装正确，执行下面命令
 
